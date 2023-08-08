@@ -51,8 +51,10 @@ text-align: center;
 }
 .presentation {
 font-family: 'Raleway', sans-serif;
+font-size: larger;
 text-align: center;
- padding: 0 10% 0 10%;
+ padding: 0 30% 0 30%;
+ 
 }
 
 .titlemyjourney {
